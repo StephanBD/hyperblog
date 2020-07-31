@@ -6,4 +6,8 @@ segunda
 
 y tercera
 
+<<<<<<< HEAD
 finalmente: hablaremos de 4 a 5
+=======
+Mañana nos enfocaremos en el 6
+>>>>>>> cabecera
